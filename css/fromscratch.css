@@ -23,4 +23,9 @@ body{
 .website{
     float: right;
     padding-right: 15px;
+    line-height: 25px;
+}
+
+a{
+    color: rgb(59, 59, 59);
 }
