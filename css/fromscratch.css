@@ -1,0 +1,26 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 16px;
+    background-color: rgb(161, 210, 230);
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.listheading{
+    font-size: 18px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.tableau{
+    text-align: center;
+    font-size: 20px;
+}
+
+.website{
+    float: right;
+    padding-right: 15px;
+}
