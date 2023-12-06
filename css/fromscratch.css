@@ -29,3 +29,30 @@ body{
 a{
     color: rgb(59, 59, 59);
 }
+
+.header{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 30px;
+    background-color: rgb(26, 175, 234);
+    border-bottom: solid 3px black;
+}
+
+.headertext{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.footer{
+    position: static;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    height: 20px;
+    background-color: rgb(26, 175, 234);
+    border-top: solid 3px black;
+}
